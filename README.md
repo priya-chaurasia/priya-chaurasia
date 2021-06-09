@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ChaurasiaPriya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ChaurasiaPriya1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priya-chaurasia-9516a0163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi-singh-86051b18b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priya-chaurasia-9516a0163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-chaurasia-9516a0163" height="30" width="40" /></a>
 <a href="https://instagram.com/priya._.chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priya._.chaurasia" height="30" width="40" /></a>
 </p>
 
