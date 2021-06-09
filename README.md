@@ -11,10 +11,12 @@
 - ⚡ Fun fact: I am an introvert :)
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=priya-chaurasia&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=priya-chaurasia&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="left" />
 
 <br/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=priya-chaurasia&theme=merko&hide_langs_below=4' align="middle" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=priya-chaurasia&theme=tokyonight&hide_langs_below=4' align="middle" />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
