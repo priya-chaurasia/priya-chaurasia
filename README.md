@@ -8,7 +8,7 @@
 - 💬 Ask me about C++
 - 📫 How to reach me : chaurasiapriya9302@gmail.com
 - 😄 Pronouns : She/Her
-- ⚡ Fun fact: I am an introvert :)
+- ⚡ Fun fact : I am an introvert :)
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=priya-chaurasia&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="left" />
