@@ -35,7 +35,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=priya-chaurasia)
 
-**Profile Visits : **
+**Profile Visits **
 ![Visitor Count](https://profile-counter.glitch.me/priya-chaurasia/count.svg)
 
 
