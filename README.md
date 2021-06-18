@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on Open Source Projects,Coding Challenges and Hackathons
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about C++
+- 💬 Ask me about : C++ and Guitar 
 - 📫 How to reach me : chaurasiapriya9302@gmail.com
 - 😄 Pronouns : She/Her
 - ⚡ Fun fact : I am an introvert :)
